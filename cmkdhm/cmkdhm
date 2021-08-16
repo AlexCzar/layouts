@@ -39,11 +39,11 @@ xkb_symbols "colemak_dhm" {
     key <AC04> { [            t,            T,      parenright,     bracketright ] };
     key <AC05> { [            g,            G,     dead_ogonek,       asciitilde ] };
     key <AC06> { [            m,            M,         percent,      asciicircum ] };
-    key <AC07> { [            n,            N,            4,             Down ] };
-    key <AC08> { [            e,            E,               5,               Up ] };
-    key <AC09> { [            i,            I,           6,            Iacute ] };
+    key <AC07> { [            n,            N,               4,             plus ] };
+    key <AC08> { [            e,            E,               5,       asciitilde ] };
+    key <AC09> { [            i,            I,               6,           Iacute ] };
     key <AC10> { [            o,            O,           equal,           bar ] };
-    key <AC11> { [   apostrophe,     quotedbl,          otilde,           Otilde ] };
+    key <AC11> { [   apostrophe,     quotedbl,      asciitilde,           Otilde ] };
 
     key <AB01> { [            z,            Z,              ae,               AE ] };
     key <AB02> { [            x,            X, dead_circumflex,       asciitilde ] };
