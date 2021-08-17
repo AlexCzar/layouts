@@ -43,7 +43,7 @@ xkb_symbols "colemak_dhm" {
     key <AC08> { [            e,            E,               5,       asciitilde ] };
     key <AC09> { [            i,            I,               6,           Iacute ] };
     key <AC10> { [            o,            O,           equal,           bar ] };
-    key <AC11> { [   apostrophe,     quotedbl,      asciitilde,           Otilde ] };
+    key <AC11> { [   apostrophe,     quotedbl,        quotedbl,           Otilde ] };
 
     key <AB01> { [            z,            Z,              ae,               AE ] };
     key <AB02> { [            x,            X, dead_circumflex,       asciitilde ] };
